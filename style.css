@@ -4,16 +4,16 @@ body {
     padding: 0;
     background-color: #e7f9ff;
     color: #333;
-    background-image: url('background.jpg'); /* Замените на путь к вашему изображению */
+    background-image: url('project.jpg'); 
     background-size: cover;
     background-attachment: fixed;
 }
 
 header {
-    background-color: rgba(255, 204, 0, 0.9);
+    background-color:  yellow;
     text-align: center;
     padding: 60px 20px;
-    border-bottom: 5px solid #ff9900;
+    border-bottom: 5px solid green;
 }
 
 h1 {
@@ -23,7 +23,7 @@ h1 {
 
 h2 {
     color: #ff9900;
-    border-bottom: 2px solid #ffcc00;
+    border-bottom: 2px solid red;
     padding-bottom: 10px;
 }
 
